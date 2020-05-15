@@ -1,6 +1,7 @@
 # Modified-N-Puzzle
 
 This code is to solve the modified N puzzle problem where there are two empty spaces. Code accepts a Modified N Puzzle in a text file in a form like:
+(one tabs delimited)
 
 1   4   -   7
 
@@ -11,6 +12,7 @@ This code is to solve the modified N puzzle problem where there are two empty sp
 8   11   14   12
 
 and a goal in a text file like:
+(one tabs delimited)
 
 1   4   7   5
 
