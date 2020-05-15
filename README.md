@@ -18,7 +18,7 @@ and a goal in a text file like:
 
 9   2   3   -
 
--   11   10    13
+-   11   10    13 
 
 6   8   14    12
 
