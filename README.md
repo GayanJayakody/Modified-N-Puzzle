@@ -11,16 +11,7 @@ This code is to solve the modified N puzzle problem where there are two empty sp
 
 8   11   14   12
 
-and a goal in a text file like:
-(one tabs delimited)
-
-1   4   7   5
-
-9   2   3   -
-
--   11   10    13 
-
-6   8   14    12
+and a goal in a text file in above format
 
 and gives the steps to solve the puzzle. Output will be written to file which contains which number you have to move to which direction.
 
